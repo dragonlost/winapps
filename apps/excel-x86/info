@@ -5,7 +5,7 @@ NAME="Excel"
 FULL_NAME="Microsoft Excel"
 
 # The executable inside windows
-WIN_EXECUTABLE="C:\Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE"
+WIN_EXECUTABLE="C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE"
 
 # GNOME categories
 CATEGORIES="WinApps;Office"
