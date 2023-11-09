@@ -1,11 +1,11 @@
 # GNOME shortcut name
-NAME="Excel"
+NAME="Excel 2019"
 
 # Used for descriptions and window class
-FULL_NAME="Microsoft Excel"
+FULL_NAME="Microsoft Excel 2019"
 
 # The executable inside windows
-WIN_EXECUTABLE="C:\Program Files\Microsoft Office\Office16\EXCEL.EXE"
+WIN_EXECUTABLE="C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE"
 
 # GNOME categories
 CATEGORIES="WinApps;Office"

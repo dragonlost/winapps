@@ -1,11 +1,11 @@
 # GNOME shortcut name
-NAME="Project"
+NAME="Project 2019"
 
 # Used for descriptions and window class
-FULL_NAME="Microsoft Project"
+FULL_NAME="Microsoft Project 2019"
 
 # The executable inside windows
-WIN_EXECUTABLE="C:\Program Files\Microsoft Office\Office16\WINPROJ.EXE"
+WIN_EXECUTABLE="C:\Program Files (x86)\Microsoft Office\root\Office16\WINPROJ.EXE"
 
 # GNOME categories
 CATEGORIES="WinApps;Office"

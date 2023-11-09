@@ -1,11 +1,11 @@
 # GNOME shortcut name
-NAME="PowerPoint"
+NAME="PowerPoint 2019"
 
 # Used for descriptions and window class
-FULL_NAME="Microsoft PowerPoint"
+FULL_NAME="Microsoft PowerPoint 2019"
 
 # The executable inside windows
-WIN_EXECUTABLE="C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE"
+WIN_EXECUTABLE="C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE"
 
 # GNOME categories
 CATEGORIES="WinApps;Office"

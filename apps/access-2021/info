@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="Access 2021"
+
+# Used for descriptions and window class
+FULL_NAME="Microsoft Access 2021"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Program Files\Microsoft Office\root\Office16\MSACCESS.EXE"
+
+# GNOME categories
+CATEGORIES="WinApps;Office"
+
+# GNOME mimetypes
+MIME_TYPES="application/x-msaccess;"
